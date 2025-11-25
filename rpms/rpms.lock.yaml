@@ -1,0 +1,54 @@
+---
+lockfileVersion: 1
+lockfileVendor: redhat
+arches:
+- arch: aarch64
+  packages:
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/aarch64/appstream/os/Packages/g/gpm-libs-1.20.7-29.el9.aarch64.rpm
+    repoid: ubi-9-for-aarch64-appstream-rpms
+    size: 23277
+    checksum: sha256:6a509fe06b994fcb3fd39bef1aca32381302473bf8b919e3992ec0ec543bafb0
+    name: gpm-libs
+    evr: 1.20.7-29.el9
+    sourcerpm: gpm-1.20.7-29.el9.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/aarch64/appstream/os/Packages/v/vim-common-8.2.2637-23.el9_7.aarch64.rpm
+    repoid: ubi-9-for-aarch64-appstream-rpms
+    size: 7342198
+    checksum: sha256:8d70cd5b588ae2468b39cc08c276c198c8419869ec662242a3a3e438032bde28
+    name: vim-common
+    evr: 2:8.2.2637-23.el9_7
+    sourcerpm: vim-8.2.2637-23.el9_7.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/aarch64/appstream/os/Packages/v/vim-enhanced-8.2.2637-23.el9_7.aarch64.rpm
+    repoid: ubi-9-for-aarch64-appstream-rpms
+    size: 1780829
+    checksum: sha256:ee4b8edac6e87664dcfad5660712a004628b4801576c68a21bd0917e7d5fee94
+    name: vim-enhanced
+    evr: 2:8.2.2637-23.el9_7
+    sourcerpm: vim-8.2.2637-23.el9_7.src.rpm
+  source: []
+  module_metadata: []
+- arch: x86_64
+  packages:
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/appstream/os/Packages/g/gpm-libs-1.20.7-29.el9.x86_64.rpm
+    repoid: ubi-9-for-x86_64-appstream-rpms
+    size: 23036
+    checksum: sha256:fc3455407e79462bfd944eea5d11d19186ad741be5a83e7ac1720fc181e3cc90
+    name: gpm-libs
+    evr: 1.20.7-29.el9
+    sourcerpm: gpm-1.20.7-29.el9.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/appstream/os/Packages/v/vim-common-8.2.2637-23.el9_7.x86_64.rpm
+    repoid: ubi-9-for-x86_64-appstream-rpms
+    size: 7342876
+    checksum: sha256:1e5d44a6f8b23e0ca60236cd3b26e70d7342856f1fa2662a32761712527852a6
+    name: vim-common
+    evr: 2:8.2.2637-23.el9_7
+    sourcerpm: vim-8.2.2637-23.el9_7.src.rpm
+  - url: https://cdn-ubi.redhat.com/content/public/ubi/dist/ubi9/9/x86_64/appstream/os/Packages/v/vim-enhanced-8.2.2637-23.el9_7.x86_64.rpm
+    repoid: ubi-9-for-x86_64-appstream-rpms
+    size: 1830587
+    checksum: sha256:80ebd61a3dc73155172bd69bb5774952a9fc3cd2acad1f97d28e1511ee30af44
+    name: vim-enhanced
+    evr: 2:8.2.2637-23.el9_7
+    sourcerpm: vim-8.2.2637-23.el9_7.src.rpm
+  source: []
+  module_metadata: []
