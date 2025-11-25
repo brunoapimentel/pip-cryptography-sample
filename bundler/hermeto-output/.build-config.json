@@ -1,0 +1,14 @@
+{
+  "environment_variables": [
+    {
+      "name": "BUNDLE_APP_CONFIG",
+      "value": "${output_dir}/bundler/config_override"
+    }
+  ],
+  "project_files": [
+    {
+      "abspath": "/home/bpimente/Projects/pip-binary-filtering/bundler/hermeto-output/bundler/config_override/config",
+      "template": "\nBUNDLE_CACHE_PATH: \"${output_dir}/deps/bundler\"\nBUNDLE_DEPLOYMENT: \"true\"\nBUNDLE_NO_PRUNE: \"true\"\nBUNDLE_ALLOW_OFFLINE_INSTALL: \"true\"\nBUNDLE_DISABLE_VERSION_CHECK: \"true\"\nBUNDLE_VERSION: \"system\"\nBUNDLE_DISABLE_LOCAL_BRANCH_CHECK: \"true\"\nBUNDLE_DISABLE_LOCAL_REVISION_CHECK: \"true\"\n"
+    }
+  ]
+}

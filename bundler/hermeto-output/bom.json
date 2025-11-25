@@ -1,0 +1,810 @@
+{
+  "bomFormat": "CycloneDX",
+  "components": [
+    {
+      "name": "action_text-trix",
+      "purl": "pkg:gem/action_text-trix@2.1.15",
+      "version": "2.1.15",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "actioncable",
+      "purl": "pkg:gem/actioncable@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "actionmailbox",
+      "purl": "pkg:gem/actionmailbox@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "actionmailer",
+      "purl": "pkg:gem/actionmailer@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "actionpack",
+      "purl": "pkg:gem/actionpack@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "actiontext",
+      "purl": "pkg:gem/actiontext@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "actionview",
+      "purl": "pkg:gem/actionview@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "activejob",
+      "purl": "pkg:gem/activejob@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "activemodel",
+      "purl": "pkg:gem/activemodel@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "activerecord",
+      "purl": "pkg:gem/activerecord@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "activestorage",
+      "purl": "pkg:gem/activestorage@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "activesupport",
+      "purl": "pkg:gem/activesupport@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "base64",
+      "purl": "pkg:gem/base64@0.3.0",
+      "version": "0.3.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "bigdecimal",
+      "purl": "pkg:gem/bigdecimal@3.3.1",
+      "version": "3.3.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "builder",
+      "purl": "pkg:gem/builder@3.3.0",
+      "version": "3.3.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "concurrent-ruby",
+      "purl": "pkg:gem/concurrent-ruby@1.3.5",
+      "version": "1.3.5",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "connection_pool",
+      "purl": "pkg:gem/connection_pool@2.5.5",
+      "version": "2.5.5",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "crass",
+      "purl": "pkg:gem/crass@1.0.6",
+      "version": "1.0.6",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "date",
+      "purl": "pkg:gem/date@3.5.0",
+      "version": "3.5.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "drb",
+      "purl": "pkg:gem/drb@2.2.3",
+      "version": "2.2.3",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "erb",
+      "purl": "pkg:gem/erb@6.0.0",
+      "version": "6.0.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "erubi",
+      "purl": "pkg:gem/erubi@1.13.1",
+      "version": "1.13.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "globalid",
+      "purl": "pkg:gem/globalid@1.3.0",
+      "version": "1.3.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "i18n",
+      "purl": "pkg:gem/i18n@1.14.7",
+      "version": "1.14.7",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "io-console",
+      "purl": "pkg:gem/io-console@0.8.1",
+      "version": "0.8.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "irb",
+      "purl": "pkg:gem/irb@1.15.3",
+      "version": "1.15.3",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "json",
+      "purl": "pkg:gem/json@2.16.0",
+      "version": "2.16.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "logger",
+      "purl": "pkg:gem/logger@1.7.0",
+      "version": "1.7.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "loofah",
+      "purl": "pkg:gem/loofah@2.24.1",
+      "version": "2.24.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "mail",
+      "purl": "pkg:gem/mail@2.9.0",
+      "version": "2.9.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "marcel",
+      "purl": "pkg:gem/marcel@1.1.0",
+      "version": "1.1.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "mini_mime",
+      "purl": "pkg:gem/mini_mime@1.1.5",
+      "version": "1.1.5",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "minitest",
+      "purl": "pkg:gem/minitest@5.26.2",
+      "version": "5.26.2",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "net-imap",
+      "purl": "pkg:gem/net-imap@0.5.12",
+      "version": "0.5.12",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "net-pop",
+      "purl": "pkg:gem/net-pop@0.1.2",
+      "version": "0.1.2",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "net-protocol",
+      "purl": "pkg:gem/net-protocol@0.2.2",
+      "version": "0.2.2",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "net-smtp",
+      "purl": "pkg:gem/net-smtp@0.5.1",
+      "version": "0.5.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "nio4r",
+      "purl": "pkg:gem/nio4r@2.7.5",
+      "version": "2.7.5",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "nokogiri",
+      "purl": "pkg:gem/nokogiri@1.18.10",
+      "version": "1.18.10",
+      "properties": [
+        {
+          "name": "hermeto:bundler:package:binary",
+          "value": "true"
+        },
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "pip-cryptography-sample",
+      "purl": "pkg:gem/pip-cryptography-sample?vcs_url=git%2Bssh://git%40github.com/brunoapimentel/pip-cryptography-sample%40ca0042012ed8bc3f23876ffaf01acfc60bb6dea0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "pp",
+      "purl": "pkg:gem/pp@0.6.3",
+      "version": "0.6.3",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "prettyprint",
+      "purl": "pkg:gem/prettyprint@0.2.0",
+      "version": "0.2.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "psych",
+      "purl": "pkg:gem/psych@5.2.6",
+      "version": "5.2.6",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "racc",
+      "purl": "pkg:gem/racc@1.8.1",
+      "version": "1.8.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rack-session",
+      "purl": "pkg:gem/rack-session@2.1.1",
+      "version": "2.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rack-test",
+      "purl": "pkg:gem/rack-test@2.2.0",
+      "version": "2.2.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rack",
+      "purl": "pkg:gem/rack@3.2.4",
+      "version": "3.2.4",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rackup",
+      "purl": "pkg:gem/rackup@2.2.1",
+      "version": "2.2.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rails-dom-testing",
+      "purl": "pkg:gem/rails-dom-testing@2.3.0",
+      "version": "2.3.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rails-html-sanitizer",
+      "purl": "pkg:gem/rails-html-sanitizer@1.6.2",
+      "version": "1.6.2",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rails",
+      "purl": "pkg:gem/rails@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "railties",
+      "purl": "pkg:gem/railties@8.1.1",
+      "version": "8.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rake",
+      "purl": "pkg:gem/rake@13.3.1",
+      "version": "13.3.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "rdoc",
+      "purl": "pkg:gem/rdoc@6.15.1",
+      "version": "6.15.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "reline",
+      "purl": "pkg:gem/reline@0.6.3",
+      "version": "0.6.3",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "securerandom",
+      "purl": "pkg:gem/securerandom@0.4.1",
+      "version": "0.4.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "stringio",
+      "purl": "pkg:gem/stringio@3.1.8",
+      "version": "3.1.8",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "thor",
+      "purl": "pkg:gem/thor@1.4.0",
+      "version": "1.4.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "timeout",
+      "purl": "pkg:gem/timeout@0.4.4",
+      "version": "0.4.4",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "tsort",
+      "purl": "pkg:gem/tsort@0.2.0",
+      "version": "0.2.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "tzinfo",
+      "purl": "pkg:gem/tzinfo@2.0.6",
+      "version": "2.0.6",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "uri",
+      "purl": "pkg:gem/uri@1.1.1",
+      "version": "1.1.1",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "useragent",
+      "purl": "pkg:gem/useragent@0.16.11",
+      "version": "0.16.11",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "websocket-driver",
+      "purl": "pkg:gem/websocket-driver@0.8.0",
+      "version": "0.8.0",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "websocket-extensions",
+      "purl": "pkg:gem/websocket-extensions@0.1.5",
+      "version": "0.1.5",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    },
+    {
+      "name": "zeitwerk",
+      "purl": "pkg:gem/zeitwerk@2.7.3",
+      "version": "2.7.3",
+      "properties": [
+        {
+          "name": "hermeto:found_by",
+          "value": "hermeto"
+        }
+      ],
+      "type": "library"
+    }
+  ],
+  "metadata": {
+    "tools": [
+      {
+        "vendor": "red hat",
+        "name": "hermeto"
+      }
+    ]
+  },
+  "specVersion": "1.6",
+  "version": 1
+}

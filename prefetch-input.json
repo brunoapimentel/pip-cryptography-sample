@@ -1,0 +1,26 @@
+[
+  {
+    "type": "pip",
+    "path": "./pip",
+    "binary": {
+	"arch": "x86_64,aarch64",
+	"os": "manylinux",
+	"py_version": "311"
+    }
+  },
+  {
+    "type": "bundler",
+    "path": "./bundler",
+    "binary": {
+	"platform": "x86_64-linux-gnu,arm-linux-gnu",
+	"packages": "nokogiri" 
+    }
+  },
+  {
+     "type": "rpm",
+     "path": "./rpms",
+     "binary": {
+	"arch": "x86_64"
+     }
+  }
+]
